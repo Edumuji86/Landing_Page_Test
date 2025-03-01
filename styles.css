@@ -45,4 +45,22 @@ body{
 
 .logo > img {
     width: 300px; ;
+    d
+}
+
+.parrafo {
+    font-weight: bold;
+    color:#da0f82;
+    background-color: #025709;
+    
+
+}
+
+
+.parrafo2 {
+    font-weight: bold;
+    color:blue;
+    background-color: blueviolet;
+    
+
 }
